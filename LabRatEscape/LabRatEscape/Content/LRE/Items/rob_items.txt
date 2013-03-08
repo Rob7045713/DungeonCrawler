@@ -1,0 +1,11 @@
+id				doorKey
+imageFile		24red
+isCollectable	true
+isUsable		false
+#
+id				drugPotion
+imageFile		24green
+isCollectable	true
+effect			drugIntensity + 0.05
+effect			score + 50
+#

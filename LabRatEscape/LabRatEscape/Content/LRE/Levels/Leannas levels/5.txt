@@ -1,0 +1,30 @@
++ Item healthpotion
+- Item drunkpotion
+" Item shrinkpotion
+K Item Key
+S Enemy scientist
+D Block door
+T Block bridge
+/ Block smalltunnel
+* Block poisongas
+X Block killblock
+% Block onewayblock
+# Block wall
+. Block floor
+8 Block block
+G Block grow
+E Block entrance
+e Block exit
+^ Block spike
+& Block wallspike
+
+############888888888888888888###########
+#..........#888888888888888888#.........#
+#.E........#888888888888888888#.......e.#
+#..........#&&&&&&&&&&&&&&&&&&#.........#
+#.......................................#
+#..........#&&&&&&&&&&&&&&&&&&#.........#
+#."........#888888888888888888#.......G.#
+#####/#############################/#####
+8888#///////////////////////////////#8888
+8888#################################8888

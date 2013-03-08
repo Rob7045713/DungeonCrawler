@@ -1,0 +1,25 @@
+W Block wall
+w Block wfloor
+a Block afloor
+s Block sfloor
+d Block dfloor
+E Block entrance
+e Block exit
+. Block floor
+#
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WW.........WWWWWWWWW
+WW.........WWWWWWWWW
+WW...WWWWW.WWWWWWWWW
+W.....WW...WWWWWWWWW
+W..w..WW.WWWWW...WWW
+W.aEd.WW...WWW.e.WWW
+W..s..WWWW.WWW...WWW
+W.....WW...WWWW.WWWW
+WWWWWWWW.WWWWWW.WWWW
+WWWWWWWW.........WWW
+WWWWWWWW.........WWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW

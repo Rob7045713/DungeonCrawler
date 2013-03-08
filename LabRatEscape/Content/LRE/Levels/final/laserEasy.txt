@@ -1,0 +1,28 @@
+W Block wall
+. Block floor
+E Block entrance
+e Block exit
+- Block horizontalLaser
+| Block verticalLaser
+> Block speed
+< Block slow
+m Block message quickly now
+s Block secret
+w Block whiteDoorKey
+#
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WWW...WWWWWWWWWWWWWW
+WWW.m...|||||....WWW
+WWW...WWWWWWWWWW-WWW
+WWWW-WWW..>..WWW-WWW
+WWW...WW.WsW.WWW<WWW
+WWW...WW.WsW.WW...WW
+WWW...WW.WwW.WW.e.WW
+WWW.E.WW.WWW.WW...WW
+WWW...WW.WWW.WWWWWWW
+WWW...WW........WWWW
+WWWW.WWWWWWWWWW<WWWW
+WWWW............WWWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,33 @@
+W Block wall
+E Block entrance
+e Block exit
+. Block floor
+Y Block yellowDoor
+y Block yellowDoorKey
+M Block message it's locked
+#
+WWWWWWWWWWWWWWWWWWWW
+W.......W..W.......W
+W.E.....M..Y.....e.W
+W.......W..W.......W
+WWWWWWWWW..WWWWWWWWW
+WWWWWWWWW..WWWWWWWWW
+WWW................W
+WWW................W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW..WW..WW..W
+WWW..WWWW......WW..W
+WWW..WWWW......WW..W
+WWW..WWWWWWWWWWWW..W
+WWW..WWW..y..WWWW..W
+WWW................W
+WWW................W
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW

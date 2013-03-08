@@ -1,0 +1,31 @@
+o Block toxic
+s Item shrinkPotion
+: Block tunnel
+@ Block wall
+. Block floor
+8 Block wall
+g Block grow
+E Block entrance
+e Block exit
+z Block cracked
+b Block efloor
+a Block message I wouldnt advise that
+c Block message maybe if I were bigger
+d Block message space to use items
+#
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@888888888888888888@@@@@@@@@@@
+@.....@@@@@@888888888888888888@@@@@.....@
+@..E..@@@@@@888888888888888888@@@@@..e..@
+@.....@ooooooooooooooooooooooooooo@.....@
+@..s..aooooooooooooooooooooooooooo......@
+@.....@ooooooooooooooooooooooooooo@.....@
+@.....@@@@@@@@@@@@@@@@@@@@@@@@@@@@@zzzzz@
+@.....@@@@@@@@@@@@@@@@@@@@@@@@@@@@@zzzzz@
+@.....@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.....@
+@..d..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.....@
+@.....@@@@@@888888888888888888@@@@@..g..@
+@@@:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:@@@
+888:::::::::::::::::::::::::::::::::::888
+8888@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8888
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

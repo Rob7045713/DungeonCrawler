@@ -1,0 +1,29 @@
++ Item healthpotion
+& Item shrinkpotion
+K Item Key
+7 Enemy scientist
+$ Block door
+* Block poisongas
+, Block wall
+. Block floor
+8 Block block
+E Block entrance
+e Block exit
+^ Block spike
+#
+888888888
+8,,,,,,,8
+8,e...*,8
+8,,,*,.,8
+8,+,+,.,8
+8,.,*,.,8
+8,.,*,.,8
+8,.,*,.,8
+8,.....,8
+8,...,,,8
+8,.....,8
+8,7.,..,8
+8,78,+.,8
+8,.8,..,8
+8,.8,.E,8
+8,,8,,,,8

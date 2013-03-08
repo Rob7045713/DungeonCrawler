@@ -1,0 +1,5 @@
+rootPath		Content\LRE
+itemsFile		Items\final_items.txt
+blocksFile		Blocks\final_blocks.txt
+levelsFile		Levels\final_levels.txt
+playersFile		Players\players.txt

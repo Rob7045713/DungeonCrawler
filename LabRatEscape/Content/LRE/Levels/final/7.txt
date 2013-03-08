@@ -1,0 +1,38 @@
++ Item healthPotion
+& Item shrinkPotion
+K Item yellowDoorKey
+7 Enemy enemy
+$ Block yellowDoor
+, Block wall
+. Block floor
+8 Block wall
+* Block gas
+E Block entrance
+e Block exit
+^ Block spikes
+A Block bluePortalEntrance
+a Block bluePortalExit
+B Block bluePortalEntrance
+b Block bluePortalExit
+C Block bluePortalEntrance
+c Block bluePortalExit
+w Item whiteDoorKey
+#
+,,,,,,,,,,,,,,,,,,
+,a..,...........+,
+,..B,,..c,,,,,,..,
+,K..,..,,,8888,..,
+,,,,,..,8,,,,,,..,
+,w.....,8,e...,..,
+,...7..,8,....,..,
+,......,,,....,..,
+,..888...........,
+,..88..........7.,
+,................,
+,...7....8888....,
+,................,
+,............,,,,,
+,+..*****....,..A,
+,.*********..$...,
+,.***.C.***..,b.E,
+,,,,,,,,,,,,,,,,,,

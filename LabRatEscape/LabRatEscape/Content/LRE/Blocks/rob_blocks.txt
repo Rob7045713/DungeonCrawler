@@ -1,0 +1,23 @@
+id						floor
+isDefault				true
+imageFile				floorwithpsychadelic
+frameTime				0.15
+#
+id						wall
+imageFile				wall
+inactivePassability		FULLY_IMPASSABLE
+#
+id						exit
+imageFile				doorX
+onStep					true
+effect					Level NextLevel
+#
+id						entrance
+blockType				Entrance
+imageFile				doorE
+#
+id						door
+blockType				Door
+imageFile				floorwithpsychadelic
+inactivePassability		FULLY_IMPASSABLE
+#

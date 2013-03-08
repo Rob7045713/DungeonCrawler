@@ -1,0 +1,5 @@
+rootPath		Content\LRE
+itemsFile		Items\rob_items.txt
+blocksFile		Blocks\rob_blocks.txt
+levelsFile		Levels\rob_levels.txt
+playersFile		Players\rob_players.txt

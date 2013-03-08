@@ -1,0 +1,25 @@
+W Block wall
+E Block entrance
+e Block exit
+. Block floor
+c Block cheese
+D Block whiteDoor
+k Block whiteDoorKey
+% Block fakeSecret
+#
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+W....D....D.....D..W
+WDWWWWWWWWWWWWWWWWDW
+W......D.......WWW.W
+WWWWWWWWWWWWWW.WWW.W
+W...WWWW...WWW.WWW.W
+W.e......E.D...WWWDW
+W...WWWW...WWWWWWW.W
+WWWWWWWWWWWWW...WW.W
+W...D...D...D.c.WW.W
+WDWWWWWWWWWWW...WW.W
+W.WWWWWWWWWWWWWWWWDW
+W.D.....D.....D....W
+WWWWWWWWW%WWWWWWWWWW
+WWWWWWWWWkWWWWWWWWWW

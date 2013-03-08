@@ -1,0 +1,24 @@
+W Block wall
+. Block floor
+M Block message there appears to be a spill
+o Block toxic
+E Block entrance
+e Block exit
+H Block heal
+#
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWW.oooooo.......W
+W...W..oooo........W
+W.E.M....o....oo...W
+W...W........oooo..W
+WWWWWoo.....ooooo..W
+WWWWWooooooooooo...W
+WWWWWWWWWWWWWWo...oW
+WWWWWoooooooooo...oW
+WWWWW....ooooo...ooW
+W...H......oooo...oW
+W.e.H.o......o.....W
+W...Hooo...........W
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW

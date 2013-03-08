@@ -1,0 +1,26 @@
+E Block entrance
+X Block exit
+W Block wall
+. Block floor
+D Block door
++ Item doorKey
+- Item drugPotion
+#
+WWWWWWWWWWWWWWWWWWWWWWWWW
+WW...WWW...---..-.+.-..+W
+WW.X.WWW...+++...-.-.-..W
+WW...WWW...---..+.-.+.-.W
+WW...WWW...WWWWWWWWWW+.-W
+W+.-++W+.-.+W...+.-.+.-.W
+W+.-.+W+.-.+W....-.-.-..W
+W++-.+W+.-.+W...-.+.-..+W
+W+.-.+W+.-.+W...WWWWWWWWW
+W+.-++W+.-.+W....+--+...W
+W+.-.+W+.-.+W...........W
+W++-.+W+.-.+W...+--+....W
+W+.-.+W+.-.+WWWWWWWWW+--W
+WW...WWW...WWWWWWWWWWDDDW
+WW...+++...W...+----+...W
+WW....+....W.E..........W
+WW+.......+W...+----+...W
+WWWWWWWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,31 @@
++ Item healthPotion
+K Item yellowDoorKey
+w Item whiteDoorKey
+D Block yellowDoor
+% Block secret
+@ Block wall
+. Block floor
+8 Block wall
+E Block entrance
+e Block exit
+^ Block spikes
+o Block toxic
+X Block death
+M Block message CAREFUL!
+#
+@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@
+@@E...@@@@@%%....K@@
+@@....@++w++@..^^^@@
+@@....@XXXXX@.....@@
+@@...M............@@
+@@@@@@@@@@@@@@@@@D@@
+@@e...@@@@@@@@....@@
+@@....@@@@@@@@....@@
+@@X..X@@@@@@@@....@@
+@@................@@
+@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@

@@ -1,0 +1,243 @@
+id						floor
+isDefault				true
+imageFile				floor
+#
+id						afloor
+imageFile				afloor
+#
+id						sfloor
+imageFile				sfloor
+#
+id						dfloor
+imageFile				dfloor
+#
+id						wfloor
+imageFile				wfloor
+#
+id						efloor
+imageFile				efloor
+#
+id						1floor
+imageFile				1floor
+#
+id						2floor
+imageFile				2floor
+#
+id						3floor
+imageFile				3floor
+#
+id						message
+imageFile				message
+inactiveTime			0
+#
+id						tunnel
+imageFile				tunnel
+inactivePassability		FULLY_IMPASSABLE
+passabilityCondition	Player isSmall
+#
+id						cracked
+imageFile				cracked
+inactivePassability		FULLY_IMPASSABLE
+passabilityCondition	Player isBig
+#
+id						exit
+imageFile				stairdown
+onStep					true
+inactiveTime			0
+effect					Level NextLevel
+#
+id						entrance
+blockType				Entrance
+imageFile				stairup
+inactiveTime			0
+#
+id						yellowDoor
+blockType				Door
+imageFile				yellowdoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						redDoor
+blockType				Door
+imageFile				reddoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						blueDoor
+blockType				Door
+imageFile				bluedoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						greenDoor
+blockType				Door
+imageFile				greendoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						orangeDoor
+blockType				Door
+imageFile				orangedoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						purpleDoor
+blockType				Door
+imageFile				purpledoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						whiteDoor
+blockType				Door
+imageFile				whitedoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						blackDoor
+blockType				Door
+imageFile				blackdoor
+inactivePassability		FULLY_IMPASSABLE
+#
+id						gas
+imageFile				gas
+onStep					true
+inactiveTime			1
+activeTime				1
+frameTime				.25
+effect					drugIntensity + 0.05
+effectDelay				0.15
+#				
+id						spikes
+imageFile				spikes
+activePassability		FULLY_IMPASSABLE
+inactiveTime			0
+effect					drugIntensity + 0.05
+#
+id						death
+imageFile				death
+onStep					true
+inactiveTime			0
+effect					drugIntensity + 1
+#
+id						wall
+imageFile				wall
+inactivePassability		FULLY_IMPASSABLE
+#
+id						toxic
+imageFile				toxic
+onstep					true
+effect					drugIntensity + 0.1
+effectDelay				.33
+inactiveTime			0
+#
+id						heal
+blockType				Charge
+imageFile				heal
+onstep					true
+effect					drugIntensity - .25
+effectDelay				1
+inactiveTime			10
+#
+id						fullHeal
+blockType				Charge
+imageFile				fullheal
+onstep					true
+effect					drugIntensity = 0
+effectDelay				1
+inactiveTime			60
+#
+id						fakeSecret
+imageFile				secretwall
+#
+id						secret
+imageFile				wall
+#
+id						grow
+blockType				Charge
+imageFile				grow
+onStep					true
+inactiveTime			5
+effect					scale = 1
+#
+id						shrink
+blockType				Charge
+imageFile				shrink
+onStep					true
+inactiveTime			5
+effect					scale = .5
+#
+id						speed
+blockType				Charge
+imageFile				speed
+onStep					true
+inactiveTime			10
+effect					speed = 600
+#
+id						slow
+blockType				Charge
+imageFile				slow
+onStep					true
+inactiveTime			5
+effect					speed = 400
+#
+id						bluePortalEntrance
+blockType				Portal
+imageFile				blueportal
+inactiveTime			0
+#
+id						bluePortalExit
+blockType				Portal
+imageFile				blueportal
+#
+id						redPortalEntrance
+blockType				Portal
+imageFile				redportal
+inactiveTime			0
+#
+id						redPortalExit
+blockType				Portal
+imageFile				redportal
+#
+id						yellowPortalEntrance
+blockType				Portal
+imageFile				yellowportal
+inactiveTime			0
+#
+id						yellowPortalExit
+blockType				Portal
+imageFile				yellowportal
+#
+id						greenPortalEntrance
+blockType				Portal
+imageFile				greenportal
+inactiveTime			0
+#
+id						greenPortalExit
+blockType				Portal
+imageFile				greenportal
+#
+id						orangePortalEntrance
+blockType				Portal
+imageFile				orangeportal
+inactiveTime			0
+#
+id						orangePortalExit
+blockType				Portal
+imageFile				orangeportal
+#
+id						purplePortalEntrance
+blockType				Portal
+imageFile				purpleportal
+inactiveTime			0
+#
+id						purplePortalExit
+blockType				Portal
+imageFile				purpleportal
+#
+id						horizontalLaser
+imageFile				horizontalLaser
+inactiveTime			1
+activeTime				1
+effect					drugIntensity + 1
+onStep					true
+#
+id						verticalLaser
+imageFile				verticalLaser
+inactiveTime			1
+activeTime				1
+effect					drugIntensity + 1
+onStep					true
+#

@@ -1,0 +1,80 @@
+id				yellowDoorKey
+imageFile		yellowkey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				redDoorKey
+imageFile		redkey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				blueDoorKey
+imageFile		bluekey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				orangeDoorKey
+imageFile		orangekey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				greenDoorKey
+imageFile		greenkey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				purpleDoorKey
+imageFile		purplekey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				blackDoorKey
+imageFile		blackkey
+isCollectable	true
+isUsable		false
+isKept			false
+#
+id				whiteDoorKey
+imageFile		whitekey
+isCollectable	true
+isUsable		false
+isKept			true
+#
+id				healthPotion
+imageFile		healthpotion
+isCollectable	true
+effect			drugIntensity - 0.5
+effect			score - 100
+isKept			true
+#
+id				shrinkPotion
+imageFile		shrinkpotion
+isCollectable	true
+isUsable		true
+isKept			false
+effect			scale = 0.5
+#
+id				growPotion
+imageFile		growpotion
+isCollectable	true
+isUsable		true
+isKept			false
+effect			scale = 1
+#
+id				speedPotion
+imageFile		speedpotion
+isCollectable	true
+isUsable		true
+isKept			false
+effect			speed = 600
+#
+id				cheese
+imageFile		cheese
+effect			Engine Cheese
+#

@@ -1,0 +1,25 @@
+W Block wall
+. Block floor
+M Block message looks dangerous
+m Block message this should make you feel better
+H Block heal
+* Block spikes
+E Block entrance
+e Block exit
+#
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWW**WWWWW**WWWWW
+W..............*WWWW
+W.E.M.....*.......WW
+W..............*W.WW
+WWWWWW**WWWWW**WW.*W
+WWWWWWWWWWWWWWWWW.WW
+WWWWWWWWWWWWWWWW*.WW
+WWWWWWWWWWWWWWWWW.WW
+W...H.......***...WW
+W.e.H.m..*...*....WW
+W...H...***.......WW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW

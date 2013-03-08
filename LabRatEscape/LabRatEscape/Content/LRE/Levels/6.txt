@@ -1,0 +1,24 @@
++ Item healthpotion
+, Block wall
+. Block floor
+E Block entrance
+e Block exit
+^ Block spike
+K Item Key
+7 Enemy scientist
+#
+,,,,,,,,,,
+,^^^^....,
+,^.......,
+,+......e,
+,,,,,,$,,,
+,7.......,
+,,,...,,,,
+,,,**,,,,,
+,.......^,
+,....K..^,
+,.......^,
+,,7....^^,
+,,,,,....,
+,E.......,
+,,,,,,,,,,

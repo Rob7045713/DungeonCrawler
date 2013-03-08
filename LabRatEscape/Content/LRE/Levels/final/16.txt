@@ -1,0 +1,81 @@
++ Item healthPotion
+& Item shrinkPotion
+K Item yellowDoorKey
+7 Enemy enemy
+$ Block yellowDoor
+/ Block tunnel
+* Block gas
+% Block secret
+= Block death
+@ Block toxic
+w Block wall
+. Block floor
+8 Block wall
+G Block grow
+E Block entrance
+e Block exit
+^ Block spikes
+A Block bluePortalEntrance
+a Block bluePortalExit
+B Block bluePortalEntrance
+b Block bluePortalExit
+C Block bluePortalEntrance
+c Block bluePortalExit
+F Block bluePortalEntrance
+f Block bluePortalExit
+H Block bluePortalEntrance
+h Block bluePortalExit
+M Block bluePortalEntrance
+m Block bluePortalExit
+k Item whiteDoorKey
+#
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+8wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww8
+8wE..w+.....***.+.****.+.***..............^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^.7...@@@w8
+8w...$....wwwwwwwwwwwwwwwwwwww.......................****..........@@@@@..................+.w8
+8w...w....w888888888888888888w...^^^..........****..........^***^.........****.****.........w8
+8wK..www..wwwwwwwwwwwwwwwwwwww.....................................****.....................w8
+8w..+w7.................................7.^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@@@.....w8
+8wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww^..^w8
+8w88888888888888888888888888888888888888888888888888888888888/////////++////////8888888w^..^w8
+8wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/wwwwwwwwwwwwwwwwwGwwwwwwww..www8
+8w888888888888888888888888888888888888888888w7.*.............&.....7......................w888
+8w888888888888888888888wwwwwwwwwwwwww8888888w..*........wwwwwwwwwwwwwwwww.........^^^.....w888
+8www^^^^^wwww%%%%%%%%@@%%%%%%8888888w8888888w***.......+w888888888888888w.**********....^^w888
+8we......^^^^*^^^w88888w8www%wwwwww8w8888888w...........wwwwwwwwwwwwwwwww.................w888
+8w^..........*..^w88888w8wf.++++...Hw8w88888w..........................................*.+w888
+8wwwwwwwwww.....^w88888w8wwwwwwwwww8w8888888w...wwwwwwwwwwwwwwwwwwwwwwwwwwAwwwwwwwwwwwwwwww888
+8w88888888w^....^w88888w888888888888w8888888w.w.w8888888888www88888888888888888888888888888888
+8wwwwwwwwww.....^w88888wwwwwwwwwwwwww8888888w.w.w888888888888888888888888888888888888888888888
+8w7.............^%%%%%%%%%%%%%%8888888888888w.w.w888888888888888888888888888888888888888888888
+8w+...........@@%%888888888888k8888888888888w7..w8888888wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww8
+8wwwwwwwwwwww$wwwwwwwwwwwwwwwwwwwwwwwwwww888w.+.w888888ww..............+..7.7.7.....F=======w8
+8w............w....@@@@..............m.@w888ww.ww888888wa..................7...7.....=======w8
+8w.wwwwwww%wwww.wwwwwwwwwww.%%%%........w8888www8888888w....................7...7....=======w8
+8w.......w..++..w....***....w88w@.......w88888888wwwwwww.....................7.7.7...=======w8
+8w.wwww..wwwwwwww.wwwwwwwww.w88w@@.....7w88888wwww^^^^^..............................=======w8
+8w.ww.w..@...***..w88888w...wwwwwwwwwwww88888ww^^^...................................=======w8
+8w.ww.wwwwwwwwwwwww88888w.w.**..w...w...w88888w^^....====....========.......==.......=======w8
+8wwww....w8w......wwwwwww.wwwww...w...w.%$%%%%%.....=====****========..***..==.......=======w8
+8w=ww.w.wwww.w.ww.w...........wwwwwwwww.w88888w^....=====****========.***...==www...........w8
+8w.ww......w.wwww.wwwwwww.www........ww.w88888w^....======****=======***....==w8w...........w8
+8w.......w.w...w........w...w.wwwwww..w.w88888ww^...=======****======.***...==w8wK....^^^...w8
+8w..wwww.w.w.w.w.wwwwww.w.w.w.w8888ww.w@w888888ww^==========****=====..***..==w8ww....^^^...w8
+8w.....www.w.w...w+ww=w...w.w.w8888w..w.w8888888ww^.**********************..wwww8ww.........w8
+8www.w.......wwwww.ww.wwwww.w.wwwwww.ww@w88888888ww^...........................ww8w........cw8
+8www.w+^^+wwww............w...w.***...w.w888888888ww^.......^^^^^^^^^........^^^w8w.....+...w8
+8www.wwwwww.w..wwwwwwww.w.www.wwwwwww.w.w8888888888ww^^^^^^^^^^^^............^www8wwwwwwwwwww8
+8w=.........w.ww............w......ww.w.wwwwww888888ww.......................^w888w.*.*....+w8
+8www.w.wwww...ww......www***w.www.....w.***..w8888888w...7..........^^^^^^^^^^wwwww..*......w8
+8w.w.wwwwwww.www..www.w...w.www.wwww.wwwwwww.w8888888w....+...............................B.w8
+8w.w.w88888w...ww.w...ww.ww.w......w..@@@@@..w8888888wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww8
+8w.w.w88888www.w..wwwwwwwwwwwww.wwwwwwwwwwww.w888888888888888888888888888888888888888888888888
+8w.w.wwwwwwwww.ww.w.....**....w.w8888888888w.w888888888888888888888888888888888888888888888888
+8w...******.*w.ww.w.wwwwwwwww.w.wwwwwwwwwwww.wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww8
+8w^..*****.*...w................w........www.@@@@@.w...ww**.ww88888888888ww................Cw8
+8wwwwwwwwwwwww.wwwwwwwwwwwwwwwwww.www.ww...wwwwwww.w.w****w..wwwwwwwwwwwwww.....wwwwwww.....w8
+8w+.........***.@.***..............ww.wwww.wwwMwKw.w...wwww.ww...****...$......^w88888w^...hw8
+8wwwwwwwwwwww.wwwwwwwwwwwwwwwwwwww.......w.......w.ww.ww.w........**...wwww.....wwwwwww.....w8
+888888888888w+w888888888888888888wwwwwwwwwwwwwww.w..@@@@@..w.wwwwwwwwwwwwww................bw8
+888888888888www888888888888888888wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww8
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888

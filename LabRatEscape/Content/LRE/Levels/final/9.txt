@@ -1,0 +1,48 @@
++ Item healthPotion
+& Item shrinkPotion
+K Item yellowDoorKey
+7 Enemy enemy
+$ Block yellowDoor
+G Block grow
+% Block secret
+/ Block tunnel
+* Block gas
+, Block wall
+. Block floor
+8 Block wall
+E Block entrance
+e Block exit
+^ Block spikes
+= Block toxic
+A Block bluePortalEntrance
+a Block bluePortalExit
+B Block bluePortalEntrance
+b Block bluePortalExit
+w Item whiteDoorKey
+s Block secret
+#
+888888888888888888888888888
+8,,,,,888888888sssssss88888
+8,e..,888888888s88888s88888
+8,...ssssss8888s88888sssw88
+8,...,8888s8888s88888888888
+8,,$,,8888ssssss88888888888
+8,^.^,888888888888888888888
+8,...,8,,,,,888,,,,,8,,,,,8
+8,E..,,,===,,,,,^.^,,,..K,8
+8,......**.G////&........,8
+8,^..,,,===,,,,,^.^,,,...,8
+8,,.,,8,,.,,888,,.,,8,,%,,8
+88,.,888,7,88888,.,888,%,88
+88,.,,8,,.,,888,,.,,8,,%,,8
+8,^..,,,..+,888,...,,,+..,8
+8,.........,888,.........,8
+8,..^,,,...,888,...,,,..B,8
+8,.,,,8,,.,,888,,.,,8,,,,,8
+88.,8888,.,88888,=,88888888
+8,.,,,8,,.,88888,.,88888888
+8,...,8,..^,888,^..,8888888
+8,..A,8,...,888,...,8888888
+8,,,,,8,b..,888,..a,8888888
+8888888,,,,,888,,,,,8888888
+888888888888888888888888888
