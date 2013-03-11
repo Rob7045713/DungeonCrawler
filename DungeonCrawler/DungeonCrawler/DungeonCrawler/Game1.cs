@@ -37,6 +37,7 @@ namespace DungeonCrawler
         {
             // TODO: Add your initialization logic here
             player = new Sprite(Content.Load<Texture2D>("player"));
+            
 
             base.Initialize();
         }
